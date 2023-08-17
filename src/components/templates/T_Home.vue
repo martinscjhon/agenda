@@ -5,8 +5,7 @@ import SectionList from '../organismos/O_SectionList.vue'
 
 <template>
     <Header />
-    <SectionList />
-    
+    <SectionList />    
 </template>
 
 <style scoped></style>

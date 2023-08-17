@@ -4,7 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
     { path: '/', component: Home },
-    { path: '/cadastrar', component: Register },
+    { path: '/tarefa/:id?', component: Register },
 ]
 
 const router = createRouter({
